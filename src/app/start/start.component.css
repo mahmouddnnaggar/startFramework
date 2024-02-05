@@ -1,0 +1,20 @@
+#start {
+  background-color: #1abc9c;
+  padding-block: 100px;
+}
+img {
+  width: 250px;
+  margin-bottom: 50px;
+}
+.star {
+  margin-block-end: 8px;
+}
+/* .star::after {
+  content: "";
+  position: relative;
+  left: 0;
+  top: 0;
+  background-color: #fff;
+  width: 20px;
+  height: 20px;
+} */
